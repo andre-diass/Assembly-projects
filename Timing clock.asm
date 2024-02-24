@@ -12,12 +12,12 @@
 ;
 ;
 ; ********************************************************* * 
-; *							  			                    *
-; *		Exemplo de Programa básico Assembly	  		        *		
-; *			FREQUENCIA 10KHz	          			        *
-; *							  			                    *
-; * 										                *	
-; *										                    *
+; *							  			                                             *
+; *		Exemplo de Programa básico Assembly	  		               *		
+; *			FREQUENCIA 10KHz	          			                        *
+; *							  			                                             *
+; * 										                                              *	
+; *										                                               *
 ; ********************************************************* * 
 
 ; --- ARQUIVO DE LINGUAGEM DE SAÍDA PÓS COMPILAÇÃO ---
